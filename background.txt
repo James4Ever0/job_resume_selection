@@ -1,0 +1,21 @@
+i am an independent agi researcher.
+
+i am passionate about working on open source projects.
+
+i have been working on multiple open source projects, like lazero (utility library), pyjom (media content automation), cybergod (computer HID automation that can completely replace human operators).
+
+i am always excited about new technologies like video generation, semantic search, retrieval augmented generation, and more. i always want to share, understand, and make use of the latest technologies. i challenge myself to make automated media contents, automated computer operator agent.
+
+i often record my unique ideas and implement them step by step. i can think of better solution for the same purpose for a very long time. when the client-side tensorflow.js is infeasible i think of llm generated explaination, summaries and tags. when single turn search is infeasible i think of hierarchical search and key-value store of related words. i am innovative and practical.
+
+i kept my ideas into 500+ notes and ever growing. i almost write everything significant to me and others in them, to remind me about my discoveries, and for my information retrieval system. i posted them as a blog to share my ideas.
+
+i frequently make pull requests and issues to open source projects like jinja2, flexsearch, fd, textualize, etc. i communicate with developers and usually promote my own unique solutions along with my problems.
+
+i created a program that automatically creates documentation for any projects, and an interactive file ignore rules visualizer called vignore to filter out files for documentation generator.
+
+i was hired for one year to build a linear-programming system and facing the challenge of infeasible models. i managed to create a backtracking system and a error-tolerant system to pinpoint the problem. i also think about applying it to the task of long term job management. i was fascinated in creating the grammar of a new modeling language that was more concise and debugable.
+
+i am always working on my own projects, and i am always looking for new challenges. i am a self-taught programmer, and i am always looking for new opportunities to learn and grow.
+
+i believe a fully automatic computer operator like cybergod can truly democrate the computing industry, and i am working on creating a fully automatic computer operator that can be used by anyone.
